@@ -1,6 +1,8 @@
-import Java.util.Scanner;
+package pilot;
 
-public class Main{
+import java.util.Scanner;
+
+public class Test1 {
 
     public static void main(String[] args){
 
@@ -8,10 +10,7 @@ public class Main{
 
         int x = sc.nextInt();
 
-
-
         sc.close();
 
     }
-
 }
